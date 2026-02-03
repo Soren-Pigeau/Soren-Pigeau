@@ -41,9 +41,9 @@
 
 ---
 
-### 📊 Mes Stats GitHub
+<h3>📊 Mes Stats GitHub</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soren-Pigeau&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=Soren-Pigeau&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soren-Pigeau&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 
 </div>
