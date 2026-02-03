@@ -41,12 +41,9 @@
 
 ---
 
-### 📊 Mes Stats GitHub
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soren-Pigeau&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGk5YnZ5eGk5YnZ5eGk5eGk5eGk5eGk5eGk5eGk5eGk5/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soren-Pigeau&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" alt="Top Langs" />
+⭐️ Merci de ta visite !
 
 </div>
