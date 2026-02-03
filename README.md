@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/soren-pigeau-39352a357/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="pigeau.soren.xeyio@gmail.com">
+<a href="mailto:pigeau.soren.xeyio@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -39,11 +39,16 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
+</div>
+
 ---
 
-<h3>📊 Mes Stats GitHub</h3>
+### 📊 Mes Stats GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=Soren-Pigeau&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soren-Pigeau&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+<div align="center">
+
+[![Stats de Soren](https://github-readme-stats.vercel.app/api?username=Soren-Pigeau&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Langages de Soren](https://github-readme-stats.vercel.app/api/top-langs/?username=Soren-Pigeau&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
