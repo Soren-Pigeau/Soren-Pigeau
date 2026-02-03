@@ -39,16 +39,14 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 
-</div>
-
 ---
 
 ### 📊 Mes Stats GitHub
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soren-Pigeau&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-[![Stats de Soren](https://github-readme-stats.vercel.app/api?username=Soren-Pigeau&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
-[![Langages de Soren](https://github-readme-stats.vercel.app/api/top-langs/?username=Soren-Pigeau&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soren-Pigeau&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" alt="Top Langs" />
 
 </div>
